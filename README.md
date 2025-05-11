@@ -1,4 +1,4 @@
-# github-project
+# github-project true
 
 > JavaScript SDK for GitHub's new Projects
 
